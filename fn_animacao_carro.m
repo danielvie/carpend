@@ -44,7 +44,7 @@ function fn_animacao_carro(t, state, m, M, L, passo)
         axis([-5 5 -2.5 3.0]);
         axis equal
         
-%         pause(0.5);
+        pause(0.1);
         drawnow
         
 

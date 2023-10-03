@@ -6,7 +6,7 @@ function G = get_modelo_carpend()
     g = -10.0;
     d = 1.0;
 
-    s = 1; % Pendulum up (s=1)‍
+    s = 1; % Pendulum up (s=1)
 
     A = [0          1                0 0;
          0       -d/M           -m*g/M 0;
